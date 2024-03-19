@@ -1,4 +1,8 @@
-# Data Analysis 스터디 (ECC 데분2팀 - 화 7-8:30pm)
+# Data Analysis 스터디 
+
+ECC 데분2팀
+
+화 7~8:30pm
 
 
 ## 교재 : 혼자 공부하는 데이터 분석 with 파이썬
